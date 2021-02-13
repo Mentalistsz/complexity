@@ -1,0 +1,204 @@
+
+
+n = 50
+
+Random input
+
+Ints
+bubbleSort: 89.1
+insertionSort: 82.4
+heapSort: 42.8
+selectionSort: 12.8
+mergeSort: 31.7
+shellSort: 5.3
+quickSort: 6.2
+
+Nums
+bubbleSort: 81.8
+insertionSort: 72
+heapSort: 41
+selectionSort: 15.4
+mergeSort: 42.8
+shellSort: 4
+quickSort: 7.2
+
+Chars
+bubbleSort: 89.1
+insertionSort: 72.4
+heapSort: 42.2
+selectionSort: 12.6
+mergeSort: 28.4
+shellSort: 4.8
+quickSort: 6.6
+
+Dates
+bubbleSort: 145.1
+insertionSort: 96.6
+heapSort: 53.5
+selectionSort: 82.3
+mergeSort: 50.9
+shellSort: 14.4
+quickSort: 14.2
+
+Reversed arrays
+
+Ints
+bubbleSort: 123.5
+insertionSort: 107.3
+heapSort: 42.8
+selectionSort: 13.4
+mergeSort: 39.1
+shellSort: 4.6
+quickSort: 6.7
+
+Nums
+bubbleSort: 79.6
+insertionSort: 69.5
+heapSort: 40.7
+selectionSort: 11.7
+mergeSort: 29.3
+shellSort: 3.7
+quickSort: 6.8
+
+Chars
+bubbleSort: 87.1
+insertionSort: 75.1
+heapSort: 42.2
+selectionSort: 12.4
+mergeSort: 24.8
+shellSort: 4.5
+quickSort: 6.5
+
+Dates
+bubbleSort: 156.8
+insertionSort: 116.9
+heapSort: 55
+selectionSort: 87.6
+mergeSort: 50.7
+shellSort: 14.7
+quickSort: 14.9
+
+
+n = 250
+
+Random input
+
+Ints
+bubbleSort: 2320.7
+insertionSort: 2065.4
+heapSort: 310
+selectionSort: 155.4
+mergeSort: 150.5
+shellSort: 34.6
+quickSort: 41.2
+
+Nums
+bubbleSort: 2071.8
+insertionSort: 1825.1
+heapSort: 285.7
+selectionSort: 149.1
+mergeSort: 138.2
+shellSort: 21.8
+quickSort: 48.6
+
+Chars
+bubbleSort: 2159.2
+insertionSort: 1863.8
+heapSort: 301.1
+selectionSort: 150.4
+mergeSort: 140.7
+shellSort: 31.4
+quickSort: 41.3
+
+Dates
+bubbleSort: 4149.2
+insertionSort: 2583.6
+heapSort: 490.5
+selectionSort: 1932.1
+mergeSort: 288.2
+shellSort: 116.2
+quickSort: 106.1
+
+Reversed arrays
+
+Ints
+bubbleSort: 2328.4
+insertionSort: 1957.9
+heapSort: 310.8
+selectionSort: 156
+mergeSort: 146.9
+shellSort: 39.4
+quickSort: 39.9
+
+Nums
+bubbleSort: 2033.8
+insertionSort: 1810.5
+heapSort: 284.7
+selectionSort: 147.9
+mergeSort: 145.2
+shellSort: 22.1
+quickSort: 46.4
+
+Chars
+bubbleSort: 2188.8
+insertionSort: 2106.3
+heapSort: 304
+selectionSort: 148.2
+mergeSort: 134.8
+shellSort: 31.9
+quickSort: 40.8
+
+Dates
+bubbleSort: 4049.1
+insertionSort: 2342.7
+heapSort: 400.4
+selectionSort: 1913.7
+mergeSort: 322.6
+shellSort: 168.1
+quickSort: 155.5
+
+
+n = 1000
+
+Random input
+
+Ints
+bubbleSort: 38254
+insertionSort: 32118.3
+heapSort: 1616.4
+selectionSort: 1909.5
+mergeSort: 605.7
+shellSort: 188.4
+quickSort: 186.8
+
+Nums
+bubbleSort: 37315.8
+insertionSort: 28594.7
+heapSort: 1441.6
+selectionSort: 1834.2
+mergeSort: 580.9
+shellSort: 117.4
+quickSort: 360.2
+
+Chars
+bubbleSort: 35878.2
+insertionSort: 30642.8
+heapSort: 1551.6
+selectionSort: 1806.9
+mergeSort: 557.2
+shellSort: 154.2
+quickSort: 199
+
+Dates
+bubbleSort: 69559.2
+insertionSort: 38452.2
+heapSort: 2051.4
+selectionSort: 30230.1
+mergeSort: 1284.4
+shellSort: 682.3
+quickSort: 554.8
+
+Reversed arrays
+
+Ints
+bubbleSort: 

@@ -1,0 +1,166 @@
+
+
+n = 50
+
+Random input
+
+Ints
+bubbleSort: 139.2
+insertionSort: 79.4
+heapSort: 42.8
+selectionSort: 12.6
+mergeSort: 33.3
+shellSort: 4.5
+quickSort: 6.8
+
+Nums
+bubbleSort: 79
+insertionSort: 74.9
+heapSort: 62
+selectionSort: 26.9
+mergeSort: 48.2
+shellSort: 5
+quickSort: 9.5
+
+Chars
+bubbleSort: 131.5
+insertionSort: 114.8
+heapSort: 66
+selectionSort: 17.8
+mergeSort: 46.6
+shellSort: 5.8
+quickSort: 9.4
+
+Dates
+bubbleSort: 233.9
+insertionSort: 147.6
+heapSort: 84.5
+selectionSort: 126.2
+mergeSort: 81.9
+shellSort: 20.7
+quickSort: 22.1
+
+Reversed arrays
+
+Ints
+bubbleSort: 141.6
+insertionSort: 94.3
+heapSort: 68.6
+selectionSort: 14.5
+mergeSort: 31.9
+shellSort: 4.7
+quickSort: 7.1
+
+Nums
+bubbleSort: 91.8
+insertionSort: 70.8
+heapSort: 43.6
+selectionSort: 12.5
+mergeSort: 29.6
+shellSort: 4.1
+quickSort: 6.9
+
+Chars
+bubbleSort: 90.7
+insertionSort: 121.2
+heapSort: 43.1
+selectionSort: 12.1
+mergeSort: 28.6
+shellSort: 4.8
+quickSort: 6.8
+
+Dates
+bubbleSort: 154.1
+insertionSort: 106.2
+heapSort: 59.2
+selectionSort: 169.2
+mergeSort: 75.8
+shellSort: 18.7
+quickSort: 22.2
+
+
+n = 250
+
+Random input
+
+Ints
+bubbleSort: 3421.6
+insertionSort: 2186.5
+heapSort: 323.6
+selectionSort: 155.7
+mergeSort: 160.5
+shellSort: 34.4
+quickSort: 40.6
+
+Nums
+bubbleSort: 2126
+insertionSort: 1798.3
+heapSort: 286.4
+selectionSort: 142
+mergeSort: 138.8
+shellSort: 22.2
+quickSort: 45.9
+
+Chars
+bubbleSort: 2245.9
+insertionSort: 1913.2
+heapSort: 304.2
+selectionSort: 148.2
+mergeSort: 161.4
+shellSort: 31.5
+quickSort: 41.3
+
+Dates
+bubbleSort: 4179.7
+insertionSort: 2403.8
+heapSort: 403.6
+selectionSort: 1972.8
+mergeSort: 311.3
+shellSort: 115.5
+quickSort: 107.3
+
+Reversed arrays
+
+Ints
+bubbleSort: 2260.8
+insertionSort: 2143.3
+heapSort: 324.5
+selectionSort: 155.1
+mergeSort: 143.9
+shellSort: 34.8
+quickSort: 41.5
+
+Nums
+bubbleSort: 2137.7
+insertionSort: 1783.5
+heapSort: 287
+selectionSort: 142.6
+mergeSort: 175
+shellSort: 26.9
+quickSort: 46.2
+
+Chars
+bubbleSort: 2221.2
+insertionSort: 1949.8
+heapSort: 311.3
+selectionSort: 148.2
+mergeSort: 138.8
+shellSort: 31.6
+quickSort: 40.8
+
+Dates
+bubbleSort: 4208.6
+insertionSort: 2419
+heapSort: 424.6
+selectionSort: 1945.3
+mergeSort: 292.2
+shellSort: 113.7
+quickSort: 105.2
+
+
+n = 1000
+
+Random input
+
+Ints
+bubbleSort: 
